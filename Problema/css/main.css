@@ -1,0 +1,22 @@
+div {
+	background-color: #808080;
+	border: 2px solid black;
+	margin: 5px;
+	height: 100px;
+	width: 100px;
+}
+#caja2 {
+	height: 115px;
+	width: 360px;
+	padding: 5px;
+}
+.caja {
+	display: inline-block;
+}
+.a{
+	float: left;
+}
+
+.caja5 {
+	clear: both;
+}
